@@ -1,7 +1,18 @@
-<style>
+.button{
+    text-align: right;
+    border: 5px;
+    background-color: blueviolet;
+    border-radius: 2px;
+    float: right;
+    border-style: double;
+    padding: 2px;
+}
+
 .box{
     background-color: whitesmoke;
     border: purple 2px solid;
     border-radius: 2px;
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
 }
-</style>
