@@ -1,11 +1,6 @@
 .button{
-    text-align: right;
-    border: 5px;
-    background-color: blueviolet;
-    border-radius: 2px;
-    float: right;
-    border-style: double;
-    padding: 2px;
+    color: hotpink;
+    top: 0;
 }
 
 .box{
@@ -13,6 +8,16 @@
     border: purple 2px solid;
     border-radius: 2px;
     text-align: center;
-    margin: 10px;
+    margin: 1px;
+    margin-top: 50px;
     padding: 5px;
+    height: 70%;
+    width: 30%;
+    display: inline-block;
+}
+.hover:hover{
+            color: black;
+            font-size: 50px;
+
+
 }
